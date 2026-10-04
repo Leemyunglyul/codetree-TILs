@@ -13,6 +13,9 @@ set<pi> s;
 
 int main() {
     // Please write your code here.
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
 
     int testn, i,j, w, v, k, a, b, c, x, tgt, s1, s2;
 
